@@ -1,0 +1,180 @@
+.poster{
+   background-size:cover; /* Adjusts the image size to cover the container */
+background-position: center; /* Centers the image within the container */
+min-height: 100vh; /* Sets the container height to the full viewport height */
+position: relative;
+height:fit-content;
+  display: flex; /* Adding flex */   
+justify-content:center;
+ align-items:center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+/* STYLING FOR FONTS */
+body>section >p {
+position:absolute;
+top:73%;
+bottom: 25%;
+left:26%;
+text-align: center;
+font-family: 'Iceberg', sans-serif;
+color:white;
+font-size: 80px;
+padding:20px;
+}
+
+body>section>p+p {
+position:absolute;
+top:88%;
+bottom: 10%;
+left:33%;
+text-align: center;
+font-family: 'Iceberg', sans-serif;
+color:white;
+font-size: 50px;
+padding:20px;
+}
+
+body>section>p+p+p {
+position:absolute;
+top:88%;
+bottom: 10%;
+left: 55%;
+text-align: center;
+font-family: 'Iceberg', sans-serif;
+color:peru;
+font-size: 50px;
+padding:20px;
+}
+
+body>section>p+p+p+p {
+position:absolute;
+text-align: center;
+font-family:  sans-serif;
+top: 103%;
+coloR:white;
+left: 42%;
+font-size: 10px;
+padding: 10px;
+ } 
+
+body>section>p+p+p+p+p {
+position:absolute;
+text-align: center;
+font-family:  sans-serif;
+top: 103%;
+coloR:white;
+left: 57%;
+font-size: 10px;
+padding:10px;
+} 
+
+body>section>p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family: 'Roboto' , sans-serif;
+top: 101%;
+color:white;
+left: 35%;
+padding:10px;  
+font-size: 35px;
+  }
+
+body>section>p+p+p+p+p+p+p{
+position:absolute;
+padding:10px;
+text-align: center;
+font-family: 'Grandiflora One', sans-serif;
+top: 96%;
+color:white;
+left: 50%;
+font-weight:400;
+font-size: 51px;
+   }
+
+body>section>p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family: 'Aclonica', sans-serif;
+top: 101.4%;
+color:white;
+left: 52%;
+font-size: 35px;
+   }
+
+body>section>p+p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family: 'Montserrat Alternates', sans-serif;
+top: 99%;
+color:white;
+left: 57.5%;
+font-weight: bold;
+font-size: 41px;
+   }
+
+body>section>p+p+p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family:  sans-serif;
+top: 108%;
+coloR:white;
+left: 40%;
+font-weight: lighter;
+font-size: 20px;
+padding: 28px;
+   }
+  
+body>section>p+p+p+p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family: 'Roboto', sans-serif;
+top: 106.9%;
+color:white;
+left: 52%;
+font-weight: bold;
+font-size: 24px;  
+   }
+
+body>section>p+p+p+p+p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family:  'Fjalla One', sans-serif;
+color:white;
+top: 83.5%;
+font-weight: normal;
+left: 54.74%;
+font-size: 85.5px;
+font-stretch:extra-condensed;
+ }
+
+body>section>p+p+p+p+p+p+p+p+p+p+p+p+p{
+position:absolute;
+text-align: center;
+font-family: sans-serif;
+top: 106.9%;
+color: white;
+left: 51.7%;
+font-weight: lighter;
+font-size: 9px;
+padding: 33px;
+}
+
+ .links {  /* STYLING FOR TRAILER LINK */  
+margin-bottom: -10px;
+}
+
+.links a {
+display: inline-block;
+background-color: gold;
+padding: 10px 10px;
+color: black;
+text-decoration:none;
+}
+
+   
+
+
+
+
+
